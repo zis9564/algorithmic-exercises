@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class PlusOne {
 
     public int[] plusOne(int[] digits) {

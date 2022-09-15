@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class RemoveDuplicatesFromSortedArray {
     
     public int removeDuplicates(int[] nums) {

@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.regex.Pattern;
-
 public class ImplementStrStr {
     
     public int strStr(String haystack, String needle) {
